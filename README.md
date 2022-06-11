@@ -37,6 +37,8 @@ Deformable convolution -> 붉은점 deformable convolution filter에서 학습�
 
 <img src="https://github.com/sandokim/Reference/blob/main/images/deformable_convolution.PNG" width="80%">
 
+<img src="https://github.com/sandokim/Reference/blob/main/images/deformable convolution.PNG" width="80%">
+
 fractional number : 분수
 
 a 1×1 convolution called a pointwise convolution.
