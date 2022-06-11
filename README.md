@@ -35,9 +35,9 @@ In many real world applications such as robotics, self-driving car and augmented
 
 Deformable convolution -> 붉은점 deformable convolution filter에서 학습한 offset 을 반영한 sampling location, 초록색 사각형은 filter 의 output 위치이다.
 
-<img src="https://github.com/sandokim/Reference/blob/main/images/deformable_convolution.PNG" width="80%">
+<img src="https://github.com/sandokim/Reference/blob/main/images/deformable_convolution.PNG" width="100%">
 
-<img src="https://github.com/sandokim/Reference/blob/main/images/deformable convolution.PNG" width="80%">
+<img src="https://github.com/sandokim/Reference/blob/main/images/deformable convolution.PNG" width="60%">
 
 fractional number : 분수
 
