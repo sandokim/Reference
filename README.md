@@ -33,7 +33,7 @@ In many real world applications such as robotics, self-driving car and augmented
 * Grouped Convolution -> 입력 값의 채널들을 여러 개의 그룹으로 나누어 독립적으로 Convolution 연산 수행, 낮은 파라미터수와 연산량, 각 그룹에 높은 Correlation을 가지는 채널이 학습될 수 있다.
 * Deformable Convolution -> 기존 CNN에서 사용하는 연산(conv/pooling/roi pooling/etc..)은 기하학적으로 일정한 sampling grid를 가지므로 복잡한 Transformation에 유연하게 대처하기 어렵다는 한계가 있다. Deformable Convolution은 convolution에 사용하는 sampling grid에 2D offset을 더하여 다향한 패턴으로 변형시켜 사용한다. 일정하게 sampling pattern 이 고정되어있지 않고, 큰 object 에 대해서는 receptive field 가 더 커진 것을 확인 할 수 있다.
 
-Deformable convolution -> 붉은점 deformable convolution filter에서 학습한 offset 을 반영한 sampling location, 초록색 사각형은 filter 의 output 위치이다
+Deformable convolution -> 붉은점 deformable convolution filter에서 학습한 offset 을 반영한 sampling location, 초록색 사각형은 filter 의 output 위치이다.
 
 <img src="https://github.com/sandokim/Reference/blob/main/images/deformable_convolution.PNG" width="80%">
 
