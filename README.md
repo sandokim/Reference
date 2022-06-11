@@ -10,3 +10,7 @@
 
 #### input, conv_layer, output formula example, for the simplicity omit batch dimension
 <img src="https://github.com/sandokim/Reference/blob/main/images/Conv_formula.JPG" width="80%">
+
+#### Computer Vision trend
+
+In many real world applications such as robotics, self-driving car and augmented reality, the recognition tasks need to be carried out in a timely fashion on a computationally limited platform.
