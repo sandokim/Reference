@@ -6,6 +6,5 @@
 
 [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 
-#### input, conv_layer, output formula example, for the simplicity omit the dimension of batch
-
+#### input, conv_layer, output formula example, for the simplicity omit batch dimension
 <img src="https://github.com/sandokim/Reference/blob/main/images/Conv_formula.JPG" width="80%">
