@@ -8,4 +8,4 @@
 
 #### input, conv_layer, output formula example
 
-<img src="https://github.com/sandokim/Reference/blob/main/images/Conv_formula.jpg" width="80%">
+<img src="https://github.com/sandokim/Reference/blob/main/images/Conv_formula.JPG" width="80%">
