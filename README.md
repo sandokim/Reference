@@ -17,7 +17,7 @@ In many real world applications such as robotics, self-driving car and augmented
 
 ### Convolution operation
 
-1×1 convolution called a pointwise convolution.
+a 1×1 convolution called a pointwise convolution.
 
 ## Model Compression
 
