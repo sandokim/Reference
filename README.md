@@ -21,6 +21,8 @@ In many real world applications such as robotics, self-driving car and augmented
 
 ### Convolution operation
 
+[[Deep Learning] 딥러닝에서 사용되는 다양한 Convolution 기법들](https://eehoeskrap.tistory.com/m/431)
+
 a 1×1 convolution called a pointwise convolution.
 
 ## Model Compression
